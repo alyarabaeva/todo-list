@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "EA58A036-1D1F-42C5-BCCC-DCF3225E6388",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Chantal.xcodeproj",
+        "identifier" : "BCEC99702C0EAA7500464726",
+        "name" : "ChantalUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
